@@ -1,2 +1,0 @@
-# pybo
-using django
